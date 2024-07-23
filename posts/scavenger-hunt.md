@@ -8,5 +8,6 @@ allow_math: true
 
 # First picture
 
-![a drippy lemon](/static/w01s1/first.png)
+![Explosive cup of coffee.](/static/w01s1/first.png)
+We weren't quite sure if this was the right spot, but we figured we'd shoot it here since it was right across the building anyways!
 
