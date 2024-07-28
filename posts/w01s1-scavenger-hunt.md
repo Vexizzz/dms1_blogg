@@ -1,7 +1,7 @@
 ---
-title: Scavenger Hunt.
+title: Scavenger Hunt!
 published_at: 2022-11-04
-snippet: 9.30 a.m.
+snippet: 9.30, W01S1.
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -52,8 +52,8 @@ We were actually thinking hard if this location was really the right one, but an
 
 ![A curtain of roots, delivered by a winged visitor.](/w01s1/eighth.jpg)
 
-We were running out of time and there was only 3 minutes left, so when we saw this place, we just yolo'ed it haha, not caring if we were wrong or not. Though the statue does seem like a curtain or cape.
+We were running out of time and there was only 3 minutes left, so when we saw this place, we just yolo'ed it haha, not caring if we were wrong or not. Though the statue does seem like a curtain or cape, so hopefully it's right? 
 
 # Final Thoughts.
 
-Although we didn't get to complete all 10 of our Scavenger Hunt Checklist, we managed to attempt eight of them. Though I feel like it doesn't feel disappointing at all since I got to talk with the people in my group, and introduce ourselves! I feel like having this game, even though its simple, is super helpful to get everyone to ease and open up to others. The tutor was also super nice and friendly, and he especially took me by surprise when I found out our class would be having a discord server; a platform which I think I'm definitely way more comfortable and easy to use. In a way, I felt really excited and more motivated to be able to ask more questions, since that has always been a problem for me in the past. I'm definitely looking forward to more studio sessions!!
+Although we didn't get to complete all 10 of our Scavenger Hunt Checklist, we managed to attempt eight of them. Though it didn't feel disappointing at all since I got to talk with the people in my group, and introduce ourselves! I feel like having this game, even though its simple, is super helpful to get everyone to ease and open up to others. The tutor was also super nice and friendly, and he especially took me by surprise when I found out our class would be having a discord server; a platform which I think I'm definitely way more comfortable and easy to use. In a way, I felt really excited and more motivated to be able to ask more questions, since that has always been a problem for me in the past. I'm definitely looking forward to more studio sessions!!
