@@ -1,5 +1,5 @@
 ---
-title: Scavenger Hunt!
+title: W01S1 Scavenger Hunt!
 published_at: 2022-11-04
 snippet: 9.30, W01S1.
 disable_html_sanitization: true
