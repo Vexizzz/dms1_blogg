@@ -1,7 +1,7 @@
 ---
-title: W01S1 Scavenger Hunt!
-published_at: 2022-11-04
-snippet: 9.30, W01S1.
+title: Scavenger Hunt!
+published_at: 2024-22-07
+snippet: W01S1.
 disable_html_sanitization: true
 allow_math: true
 ---

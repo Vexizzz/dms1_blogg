@@ -1,7 +1,7 @@
 ---
-title: W02S1 Storyboarding and Continuity
-published_at: 2022-11-04
-snippet: 13.30, W01S2.
+title: Storyboarding and Continuity
+published_at: 2024-29-07
+snippet: W02S1.
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -26,3 +26,13 @@ I first took screenshots of each frame that I wanted, then to ensure I got the p
 ![The Storyboard](/w02s1/storyboard.jpg)
 
 (The storyboard is from bottom to top, right to left!!)
+
+# Assignment Storyboard
+
+Afterwards, right before class ended, I went on iPad Notes to start brainstorming for my assignment. I wrote any word that came up in my mind, then mapped everything out which can be seen in the process down below.
+
+![Assignment](/w02s1/assignment-storboard.png)
+
+I plan to establish continuity by making use of match-cuts and using similar colours for background. An example would be trying to keep the colour scheme warm with comfy colours such as brown tones (the melbourne central clock bricks and the book backgrounds). I think a problem I'll face is making sure the assignment video does not end up as a narrative while trying to ensure temporal continuity.
+
+The theme focuses on nostalgia and time, so I plan to use a lot of L-cuts to give the audience a lingering feeling on the last scene, like reminsicing since I really want to set a longing and slightly sentimental mood.
