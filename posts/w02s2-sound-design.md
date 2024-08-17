@@ -1,6 +1,6 @@
 ---
 title: Sound Design
-published_at: 2024-02-08
+published_at: 2024-08-02
 snippet: 13.30, W01S2.
 disable_html_sanitization: true
 allow_math: true
