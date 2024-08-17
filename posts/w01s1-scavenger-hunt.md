@@ -1,6 +1,6 @@
 ---
 title: Scavenger Hunt!
-published_at: 2024-22-07
+published_at: 2024-07-22
 snippet: W01S1.
 disable_html_sanitization: true
 allow_math: true

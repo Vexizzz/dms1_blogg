@@ -1,6 +1,6 @@
 ---
 title: Storyboarding and Continuity
-published_at: 2024-29-07
+published_at: 2024-07-29
 snippet: W02S1.
 disable_html_sanitization: true
 allow_math: true

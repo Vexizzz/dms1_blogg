@@ -1,6 +1,6 @@
 ---
 title: Editing
-published_at: 2024-26-07
+published_at: 2024-07-26
 snippet: W01S2.
 disable_html_sanitization: true
 allow_math: true
