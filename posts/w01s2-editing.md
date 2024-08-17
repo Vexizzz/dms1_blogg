@@ -41,10 +41,14 @@ Now I had a crossfade transition. Yippee!! I wanted to try even more transitions
 
 I dragged it towards the end of the final clip, and now we're finally done!!
 
+![Upload](/w01s2/upload.png)
+
+Lastly, I sent the file to Adobe Media Encoder so I can export it before finally uploading it to YouTube!
+
 # Final Thoughts
 
-While doing this practice, I realized just how many panel groups Adobe Premiere Pro has (along with every other Adobe app sigh) and how confusing this information overload can be to someone. Even after the class and the tutorials, I sometimes forget which keyboard shortcut is which, or which panels I need to open. Thankfully, Adobe has some really great tutorials that I often up while editing just in case, and they're formatted in such a neat and organized way that I loovee.
+While doing this practice, I realized just how many panels Adobe Premiere Pro has (along with every other Adobe app sigh) and how confusing this information overload can be to someone. Even after the class and the tutorials, I sometimes forget which keyboard shortcut is which, or which panels I need to open. Thankfully, Adobe has some really great tutorials that I often up while editing just in case, and they're formatted in such a neat and organized way that I loovee.
 
 The link in question: https://helpx.adobe.com/au/premiere-pro/user-guide.html
 
-That's all I've done for the w01s2 session. It was my first time using Adobe Premiere Pro actually, and I went into class with low expectations of myself since I get easily overwhelmed with information overload and have difficulties following instructions sometimes. But the fact that I got all this done was super enjoyable and relieving for me! I got to try out the many transitions Premiere Pro has to offer, and figured out the basics of the application. I really look forward to using more of this application and learning more of its effects!
+That's all I've done for the w01s2 session. It was my first time using Adobe Premiere Pro actually, and I went into class with low expectations of myself since I get easily overwhelmed with information overload and have difficulties following instructions sometimes. But the fact that I got all this done was super enjoyable and relieving for me! I got to try out the many transitions Premiere Pro has to offer, and figured out the basics of the application, which really was what I had hoped to achieve during the session. I really look forward to using more of this application and learning more of its effects!
