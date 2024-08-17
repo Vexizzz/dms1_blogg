@@ -24,4 +24,5 @@ Furthermore, I want the sound of the sparklers lighting up and crackling to be i
 
 I also hope that the connections of the shots at the beach help them realize that what they will be watching is centred on the whole feeling of nostalgia and reminiscing, especially since its one of the very first scenes of the video. With the person wearing a school uniform, and a sunset in the background to symbolize transition to a new beginning. 
 
-I've included these suggestions in the assignment storyboard while brainstorming!
+I've included these suggestions in the assignment storyboard while brainstorming,
+

@@ -6,4 +6,4 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
-draft
+The draft:

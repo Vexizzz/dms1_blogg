@@ -21,9 +21,18 @@ Afterwards, I went to YouTube's audio library to find some sound effects for the
 
 The subject in the video was walking further away, so I also wanted the walking sound effect to gradually become softer thus I decided to try to make the first audio snippet fade into the quieter version before finally fading off. After reading the slides presented in class how audios suffer from the most vulnerable to seeming unnatural after being edited. Thus, I think I favor fading audios more now since I think it'd sound unnatural.
 
-![music])(/)
+![Music](/w03s1/music%20walk.png)
+![MusicEditing](/w03s1/music%20editing.png)
+
+I afterwards chose a song that I liked by searching up the keywords of what was going on into the search bar of YouTube's audio library. I popped it into Adobe Premiere Pro, then I edited the fade of the music for it to increase as the walking audio gradually became quieter; The non-diagetic audio overtaking the diagetic audio to prevent complete silence since that would be very unnatural and unrealistic. I finally made the ending of the music to gradually fade away so it wouldn't abruptly cut out and end unnaturally.
+
+Finally, I sent it to Adobe Media Encoder and exported it before uploading it to YouTube!! woohoo
+
+![Encoiding](/w03s1/encoding.png)
 
 # Activity
+
+We went to Melbourne Central to film a video based on Alone, which came from the concept of being alone, yet surrounded by many different people.
 
 Our Video:
 

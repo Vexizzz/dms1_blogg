@@ -35,4 +35,4 @@ Afterwards, right before class ended, I went on iPad Notes to start brainstormin
 
 I plan to establish continuity by making use of match-cuts and using similar colours for background. An example would be trying to keep the colour scheme warm with comfy colours such as brown tones (the melbourne central clock bricks and the book backgrounds). I think a problem I'll face is making sure the assignment video does not end up as a narrative while trying to ensure temporal continuity.
 
-The theme focuses on nostalgia and time, so I plan to use a lot of L-cuts to give the audience a lingering feeling on the last scene, like reminsicing since I really want to set a longing and slightly sentimental mood.
+The theme focuses on nostalgia and time, so I plan to use a lot of L-cuts to give the audience a lingering feeling on the last scene, like reminsicing since I really want to set a longing and slightly sentimental mood. I'm really looking forward to how it'll turn out since I think learning how to storyboard has really helped me organize my thoughts and set out my vision on how I want the video to play out clearer!
