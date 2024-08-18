@@ -30,10 +30,9 @@ Finally, I sent it to Adobe Media Encoder and exported it before uploading it to
 
 ![Encoiding](/w03s1/encoding.png)
 
+Edited Video: https://youtu.be/GwAceCd0s-U
+
+
 # Activity
 
-We went to Melbourne Central to film a video based on Alone, which came from the concept of being alone, yet surrounded by many different people.
-
-Our Video:
-
-Edited Video: 
+We went to Melbourne Central to film a video based on Alone, which came from the concept of being alone, yet surrounded by many different people. It was super fun and everyone got boba together hehe

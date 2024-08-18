@@ -12,7 +12,7 @@ The slides talked about the definition of self portrait and discussed many diffe
 
 # Video
 
-...
+[...](https://youtu.be/O1qyPVnVDt0)
 
 # Pictures while Editing
 
