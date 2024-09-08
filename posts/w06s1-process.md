@@ -22,21 +22,25 @@ I also made use of the rectangles' properties of "stroke" and clear "fill" to cr
 
 ![Wall](/w06s1/mirror1.png)
 
+
 ![Adobe](/w06s1/adobemicrowave.png)
+
 
 ![Shelf](/w06s1/shelf.png)
 
 Throughout the entire process, I made use of the ruler as well, keeping it constantly at 50 degrees to create a consistent shadown seen throughout all the designs. I'd create an extra layer on top which is in a darker colour, only lowering the opacity until its a little amount so it creates a shadow effect.
 
+![Shelf1](/w06s1/shelf1.png)
+
 However, my designing process had a lot of changes and indecisivenesses which I have known for a long time has been a large issue for me. At first, I wanted to partake in the "Future" theme, yet nothing I was doing seemed to be working out. In the end, I decided to go for a home theme.
 
 # SOUND
 
-![Shelf1](/w06s1/shelf1.png)
+After a while, I also started collecting sounds for each icon as well, each depending on what they represent. For example, I thought the sizzling of a fire in a fireplace resembled this crunching of a plastic, so I tried to replicate it in a shorter and snappier way which you would expect from clicking a button on a website.
 
-After a while, I also started collecting sounds for each icon as well, each depending on what they represent. For example, I thought the sizzling of a fire in a fireplace resembled this crunching of a plastic, so I tried to replicate it in a shorter and snappier way which you would expect from clicking a button on a website. However, since the theme I chose was "home", it was manageable and accessible for me to find sound effects. For example, the icon with food on the pan has sound from a salt grinder, while the subtle thud of the bookshelf was the sound of setting down a heavy book, and the window's sound is supposed to resemble the quick woosh of opening a curtain.
+![Plastic](/w06s1/plastic.jpg)
 
-![Plastic](/w06s1/start.png)
+However, since the theme I chose was "home", it was manageable and accessible for me to find sound effects. For example, the icon with food on the pan has sound from a salt grinder, while the subtle thud of the bookshelf was the sound of setting down a heavy book, and the window's sound is supposed to resemble the quick woosh of opening a curtain.
 
 ![microwave](/w06s1/microwave.jpg)
 
