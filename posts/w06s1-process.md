@@ -20,7 +20,9 @@ While looking for ideas, I drew inspiration from Ivan Dubovik, a flat artist ill
 
 I also made use of the rectangles' properties of "stroke" and clear "fill" to create boxes and windows, as seen in the properties panel at the right side of the screenshot I took while working on my designs. 
 
-![Wall](/w06s1/mirror1.png) ![Shelf](/sw06s1/shelf.png)
+![Wall](/w06s1/mirror1.png)
+
+![Shelf](/sw06s1/shelf.png)
 
 Throughout the entire process, I made use of the ruler as well, keeping it constantly at 50 degrees to create a consistent shadown seen throughout all the designs. I'd create an extra layer on top which is in a darker colour, only lowering the opacity.  
 
@@ -32,7 +34,9 @@ However, my designing process had a lot of changes and indecisivenesses which I 
 
 After a while, I also started collecting sounds for each icon as well, each depending on what they represent. For example, I thought the sizzling of a fire in a fireplace resembled this crunching of a plastic, so I tried to replicate it in a shorter and snappier way which you would expect from clicking a button on a website. However, since the theme I chose was "home", it was manageable and accessible for me to find sound effects. 
 
-![Plastic](/sw06s1/start.png) ![microwave](/w06s1/microwave.jpg)
+![Plastic](/sw06s1/start.png)
+
+![microwave](/w06s1/microwave.jpg)
 
 # CODING
 
