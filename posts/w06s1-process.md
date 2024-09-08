@@ -1,6 +1,6 @@
 ---
 title: Process Throughout
-published_at: 2024-08-19 onwards
+published_at: 2024-08-19
 snippet: W06S1.
 disable_html_sanitization: true
 allow_math: true
@@ -46,4 +46,4 @@ Afterwards, I start coding out the style such as the padding of the containers t
 
 I have a habit of putting in comments in a lot of my coding, so I don't get easily lost within my writing as seen. I dedicate my body to becoming a 3x3 grid layout of the icons and giving each icon their own ID so it is easier to script their behaviour when clicked on further on. In this case, the icons are programmed to change to a specific image for a short moment when clicked, before reverting afterwards. I unfortunately was stuck here for quite a bit, simply because I had forgotten to put } after the end of each ID script. However, after finding out about it, it had been smooth sailing and the rest was going just as smoothly.
 
-All in all, the entire process was incredibly enjoyable although quite confusing at parts, especially the subtle hidden mistakes I can never catch while coding. Playing around with Adobe Illustrator has certainly improved my confidence and flexibility when it comes to graphic-design related projects. I especially had fun with the pathfinder tool and shape unity, allowing mo explore unique design possibilities that kept the experience fresh and engaging
+All in all, the entire process was incredibly enjoyable although quite confusing at parts, especially the subtle hidden mistakes I can never catch while coding. Playing around with Adobe Illustrator has certainly improved my confidence and flexibility when it comes to graphic-design related projects. I especially had fun with the pathfinder tool and shape unity, llowed me to explore unique design possibilities that kept the experience fresh and engaging
