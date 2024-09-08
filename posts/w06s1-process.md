@@ -42,7 +42,7 @@ I started out first by uploading all of my files (the icons, icons when clicked 
 
 Afterwards, I start coding out the style such as the padding of the containers that would hold the icons, and declaring that the code is in HTML format. I also made sure to give my icons an action whenever hovered above; making use of the code provided in the templates provided by the tutor within the layout ZIP as well as the ones given in class and on Discord:
 
-![Style](/static/w06s1/code1.png) ![Body](/static/w06s1/code2.png)
+![Style](/w06s1/code1.png) ![Body](/w06s1/code2.png)
 
 I have a habit of putting in comments in a lot of my coding, so I don't get easily lost within my writing as seen. I dedicate my body to becoming a 3x3 grid layout of the icons and giving each icon their own ID so it is easier to script their behaviour when clicked on further on. In this case, the icons are programmed to change to a specific image for a short moment when clicked, before reverting afterwards. I unfortunately was stuck here for quite a bit, simply because I had forgotten to put } after the end of each ID script. However, after finding out about it, it had been smooth sailing and the rest was going just as smoothly.
 
