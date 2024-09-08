@@ -1,6 +1,6 @@
 ---
 title: Process Throughout
-published_at: 2024-08-19
+published_at: 2024-08-23
 snippet: W06S1.
 disable_html_sanitization: true
 allow_math: true
@@ -34,7 +34,7 @@ However, my designing process had a lot of changes and indecisivenesses which I 
 
 ![Shelf1](/w06s1/shelf1.png)
 
-After a while, I also started collecting sounds for each icon as well, each depending on what they represent. For example, I thought the sizzling of a fire in a fireplace resembled this crunching of a plastic, so I tried to replicate it in a shorter and snappier way which you would expect from clicking a button on a website. However, since the theme I chose was "home", it was manageable and accessible for me to find sound effects. 
+After a while, I also started collecting sounds for each icon as well, each depending on what they represent. For example, I thought the sizzling of a fire in a fireplace resembled this crunching of a plastic, so I tried to replicate it in a shorter and snappier way which you would expect from clicking a button on a website. However, since the theme I chose was "home", it was manageable and accessible for me to find sound effects. For example, the icon with food on the pan has sound from a salt grinder, while the subtle thud of the bookshelf was the sound of setting down a heavy book, and the window's sound is supposed to resemble the quick woosh of opening a curtain.
 
 ![Plastic](/w06s1/start.png)
 
@@ -50,6 +50,10 @@ Afterwards, I start coding out the style such as the padding of the containers t
 
 ![Style](/w06s1/code1.png) ![Body](/w06s1/code2.png)
 
-I have a habit of putting in comments in a lot of my coding, so I don't get easily lost within my writing as seen. I dedicate my body to becoming a 3x3 grid layout of the icons and giving each icon their own ID so it is easier to script their behaviour when clicked on further on. In this case, the icons are programmed to change to a specific image for a short moment when clicked, before reverting afterwards. I unfortunately was stuck here for quite a bit, simply because I had forgotten to put } after the end of each ID script. However, after finding out about it, it had been smooth sailing and the rest was going just as smoothly.
+I have a habit of putting in comments in a lot of my coding, so I don't get easily lost within my writing as seen. I dedicate my body to becoming a 3x3 grid layout of the icons and giving each icon their own ID so it is easier to script their behaviour when clicked on further on. In this case, the icons are programmed to change to a specific image for a short moment when clicked, before reverting afterwards. I unfortunately was stuck here for quite a bit, simply because I had forgotten to put } after the end of each ID script.
 
-All in all, the entire process was incredibly enjoyable although quite confusing at parts, especially the subtle hidden mistakes I can never catch while coding. Playing around with Adobe Illustrator has certainly improved my confidence and flexibility when it comes to graphic-design related projects. I especially had fun with the pathfinder tool and shape unity, llowed me to explore unique design possibilities that kept the experience fresh and engaging
+However, after finding out about it, it had been smooth sailing and the rest was going just as smoothly. A problem I feel, though, is that when I first load the website, however, it takes a while before the interactive experiences work so I added a line where it will preload the audio since I think this problem is related to the browser's autoplay policy for media elements. And for the final touch, I changed the image container width slightly so it wouldn't look too far apart or stiff from one another.
+
+![Style](/w06s1/hi.png)
+
+All in all, the entire process was incredibly enjoyable although quite confusing at parts, especially the subtle hidden mistakes I can never catch while coding. Playing around with Adobe Illustrator has certainly improved my confidence and flexibility when it comes to graphic-design related projects. I especially had fun with the pathfinder tool and shape unity, it allowed me to explore unique design possibilities that kept the experience fresh and engaging.
