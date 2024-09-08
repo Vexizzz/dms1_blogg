@@ -8,11 +8,11 @@ allow_math: true
 
 In class, we had to do a thumbnail sketching activity, where we had to produce 20 thumbnail sketches for a particular icon or logo of anything. Since I was really hungry at the time, I immediately thought of food. However, the catch was that there were only 10 minutes. I've always been super indecisive with whatever I made, thus I usually take a long time, so this really was a challenge for me. In the end, I only could make 18 so I added in an extra 2 to make up for it after the class.
 
-[Class Activity](/w04s2/thumbnail.png)
+![Class Activity](/w04s2/thumbnail.png)
 
 Afterwards, we were tasked to produce a series of thumbnail sketches for Assignment 2, with at least five thumbnail sketches per icon.
 
-[Sketches](/w04s2/sketchse.png)
+![Sketches](/w04s2/sketchse.png)
 
 The theme that I chose was "Home." To clarify, the ones that I circled in light blue were the ones that I liked the most.
 
