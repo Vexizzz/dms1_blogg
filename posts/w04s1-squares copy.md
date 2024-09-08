@@ -14,7 +14,9 @@ We had to design 8 icons for each theme using only 4 black squares, so I firstly
 
 [Squares](/w04s1/w04s1%20first.png)
 
-While coming up with the many designs, I tried to make it so that the audience would understand, all the while being restrained by using only 4 black squares. For example, this design is for the theme "increasing". I tried to relate it to a common occurence such as walking up stairs, "increasing your elevation from ground". I tried to show the difference between the jumper and the stairs by tilting the smaller square upwards, hopefully giving it a more jumpy feeling as well.
+While coming up with the many designs, I tried to make it so that the audience would understand, all the while being restrained by using only 4 black squares. For example, this design is for the theme "increasing". I tried to relate it to a common occurence such as walking up stairs, "increasing your elevation from ground". I tried to show the difference between the jumper and the stairs by tilting the smaller square upwards, hopefully giving it a more jumpy feeling as well. 
+
+I rotated it by grabbing onto the corners but out of habit, I kept holding onto shift so the rotating just kep going by like 90 degrees. However, after getting used to it, I found myself working much faster.
 
 [Jump](/w04s1/w04s1%20second.png)
 
@@ -22,4 +24,4 @@ Another example was one of my designs for "congested". I wanted to make it feel 
 
 [Congested](/w04s1/w04s1%20third.png)
 
-In the end, I chose the final designs for each theme based off how well and easily they can communicate with the audience, as well as what I think resonates the most with the theme.
+In the end, I chose the final designs for each theme based off how well and easily they can communicate with the audience, as well as what I think resonates the most with the theme. I wasn't able to finish all the icons in time, however, I went to do the class activity back at home and found myself enjoying it as it was really challenging to think about how others would react to your own perspective and portrayal of that certain term. 
