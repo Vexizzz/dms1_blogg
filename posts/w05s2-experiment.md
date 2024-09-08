@@ -14,11 +14,11 @@ And the result was that it was too large for the browser screen seen below.
 
 ![Result](/w05s2/result.png)
 
-On the other hand, making the padding really low caused everything the icons to be really far apart from one another which was really odd-looking.
+On the other hand, making the padding really high caused everything the icons to be really far apart from one another which was really odd-looking.
 
 ![No](/w05s2/no%20padding.png)
 
-While lowering the image container width causes all of the icons to be closer to one another as seen:
+While increasing the image container width causes all of the icons to be larger.
 
 ![Close](/w05s2/image%20(3).png)
 
