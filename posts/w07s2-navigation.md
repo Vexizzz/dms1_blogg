@@ -22,6 +22,6 @@ I started making the grey prototype of my subway, starting first with a terrain 
 
 ![Train](w07s2/train.png)
 
-I also made stairs using only cubes, with the help of the "rect tool" which I found incredibly useful throughout the entire process as it was easy to use and navigate. 
+I also made stairs using only cubes, with the help of the "rect tool" which I found incredibly useful throughout the entire process as it was easy to use and navigate. I did not go far too much, however, as I wanted to keep it simple so I could figure out where I should proceed next.
 
 ![Stairs](/w07s2/stairs.png)
