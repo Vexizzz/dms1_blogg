@@ -26,7 +26,7 @@ One additional thing I learnt that I think would be important for my assignment 
 
 As homework, we had to brainstorm and develop ideas for our Assignment Task 3. We were asked to design a 3D environment based on a meaningful change or transformation that I had undergone, so I wrote down some words and themes that I thought I would use as the foundation for my design decisions. 
 
-![Top Down Map](/w07s1/topdownmap.png)
+![Top Down Map](/w07s1/topdownmap.jpg)
 
 And with these ideas, I drew a top-down map. It is about the premise of "change" that I try to show by telling a story of growing up all the while being stuck reminiscing in the past. The subway train brings the player to different stops of the character's past memories, a vessel for looking between different times in the players life; their old classroom, and past of being a feeble sick kid. Going up and out the station and finally leaving your past behind, you enter a bright modern city that is different from the apocalyptic, messy overgrown subway station. It represents the "change" in mindset when finally stopping yourself from being stuck or tied down by the past, and how much better your perspective on things can be which is something I had often found myself doing. This habit frequently led to many negative thoughts and being stuck in a constant cycle of regret and not being able to move into the future.
 

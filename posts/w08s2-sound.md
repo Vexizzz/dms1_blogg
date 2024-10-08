@@ -1,5 +1,5 @@
 ---
-title: 3D
+title: Sound
 published_at: 2024-09-13
 snippet: W08S2.
 disable_html_sanitization: true
