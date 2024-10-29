@@ -1,7 +1,7 @@
 ---
 title: Figma Slides
 published_at: 2024-10-04
-snippet: W010S2.
+snippet: W10S2.
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -40,11 +40,11 @@ For my work:
 
 One of the useful things that I had gotten from the class would be learning how to change the desktop colour, as I think white would be too boring and having freedom in this creative aspect would be extremely helpful 
 
-![Desktop](w10s2/desktop.png)
+![Desktop](/w10s2/desktop.png)
 
 Another would be the scroll behaviour of elements, as I figured that the ones that stay fixed would be helpful when creating elements to help users navigate throughout the sections of the webpage. Speaking of that, learning how to configure the elements' interactions would help me achieve that effect, and how to use animations such as either instant or smart animation, would help make the transitions seem smoother for a more enjoyable user experience.
 
-![Scroll](w10s2/scroll.png)
+![Scroll](/w10s2/scroll.png)
 
 ## Visual Elements
 

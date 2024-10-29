@@ -6,6 +6,7 @@ disable_html_sanitization: true
 allow_math: true
 ---
 
+# Class Assignment
 In class, we learnt about the concept of grids and how they serve to make everything seem neat and tidy. We had to choose a website and figure out the grid for it. I chose Pinterest... before realising it was almost impossible and I gave up right before my time ended. On the other hand, thus, I decided to incorporate the use of grids in my design using a grid of pink and white boxes which would suit my design's colour palette:
 
 ![grids](/w11s2/grids.png)
