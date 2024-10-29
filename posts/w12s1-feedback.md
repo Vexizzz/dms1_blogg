@@ -18,7 +18,7 @@ Thus, I redrew the Nintendo DS with a more similar colour palette; with the webp
 
 Furthermore, I also received feedback that since the webpage was too zoomed in, it was hard and bothersome to scroll up and down to navigate throughout the sections. To fix this, I made an old-school webpage that followed the original theme using just rectangles in Figma; adjusting their stroke and increasing the corner radius to create a search bar of a search engine.
 
-![box](/w12s1/box.png)
+![rectangles](/w12s1/rectangles.png)
 
 This made the content smaller and more engaging, all the while drawing and adding on pink pixel icons on the left side. I did this in hopes of it resembling apps of an old-school computer, adding app names using the text tool on Figma, and I added interactions to each "app" so they could navigate to each section more easily. I also made them in a fixed position, so users can move easily however they like,
 
