@@ -1,6 +1,6 @@
 ---
 title: Figma Slides
-published_at: 2024-09-16
+published_at: 2024-10-04
 snippet: W010S2.
 disable_html_sanitization: true
 allow_math: true

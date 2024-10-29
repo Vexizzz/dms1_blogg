@@ -1,6 +1,6 @@
 ---
 title: Wireframes
-published_at: 2024-09-16
+published_at: 2024-10-07
 snippet: W011S1.
 disable_html_sanitization: true
 allow_math: true
@@ -24,3 +24,16 @@ Afterwards, I continued on with the circles in order to create the notification 
 
 For our homework, we had to design several wireframes for our planned webpage. Using my iPad, I sketched out some initial designs:
 
+![First](/w11s1/first.png)
+
+My first design was initially what I felt I would most likely go through with since it felt professional, clean and neat. However, I felt like it was too simple and cliche; It did not represent any aspect of my creativity as a designer, thus why I set it aside.
+
+![Second](/w11s1/second.png)
+
+This design was too messy; I thought that the top pictures of my project at the top would be too clustered and messy. I also showed my design choices to my friends, to which none of them chose wireframe 3. It felt all over the place, and was also lacking something that I could not pinpoint. 
+
+![Third](/w11s1/yay.png)
+
+This was the original design I had thought of since the week before. I thought it would be too childish, however, it felt the closest to my creative aspect and was the most engaging towards my concept.
+
+I was really hesitant in choosing the third one, especially since Figma was known mostly for its simplicity. However, I clarified with the teacher and found that using Illustrator was fine. I wanted to experiment with something new, especially since the design had been based off pixel art, something I had never done before.
