@@ -1,5 +1,5 @@
 ---
-title: Wireframes
+title: Grids
 published_at: 2024-10-11
 snippet: W011S2.
 disable_html_sanitization: true

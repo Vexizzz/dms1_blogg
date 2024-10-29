@@ -1,5 +1,5 @@
 ---
-title: Wireframes
+title: Feedback
 published_at: 2024-10-14
 snippet: W012S1.
 disable_html_sanitization: true
