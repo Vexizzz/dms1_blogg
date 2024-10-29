@@ -1,7 +1,7 @@
 ---
 title: Self Reflection
 published_at: 2024-10-01
-snippet: W010S1.
+snippet: W10S1.
 disable_html_sanitization: true
 allow_math: true
 ---
@@ -10,7 +10,7 @@ allow_math: true
 
 In class and in groups of three, we had to interview and ask one another the questions on the slide.
 
-![Questions](/w010s1/w10s1.jpg)
+![Questions](/w10s1/w10s1.jpg)
 
 I jot them down in my iPad before moving on to the next sections.
 
