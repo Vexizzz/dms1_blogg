@@ -8,4 +8,4 @@ allow_math: true
 
 # Feedback
 
-In class, we had to share with one another the progress of our webpage and provide feedback. My friend had commented on the lack of judgement when it came to composition and positioning of my decorative elements, especially 
+In class, we had to share with one another the progress of our webpage and provide feedback. My friend had commented on the lack of judgement when it came to composition and positioning of my decorative elements, and the lack of consistency n
